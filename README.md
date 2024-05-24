@@ -27,18 +27,6 @@ Before you begin, ensure you have met the following requirements:
 - You have installed [Docker](https://www.docker.com/).
 - You have a [GitHub](https://github.com/) account.
 
-
-## Usage
-1. Ensure that Python is installed and the ionic framework is ready for it you could check the main website of the framework: `https://ionicframework.com/docs/intro/cli`.
-2. Ensure as well that you are in the main page of the project:
- ```bash
- cd infusionapp
- ```
-3. To execute the project, run:
- ```bash
- ionic serve
- ``` 
-
 ## Installation
 
 1. Clone the repository
